@@ -1,0 +1,25 @@
+.title {
+  color: cadetblue;
+  font-size: 18px;
+  font-weight: 900;
+  text-align: center;
+}
+.followersTitle {
+  color: cadetblue;
+  text-align: center;
+  font-size: 24px;
+}
+.followersPhoto {
+  text-align: center;
+  margin: 30px;
+}
+.repoTitle {
+  list-style: none;
+  text-align: center;
+  font-size: 20px;
+}
+.titleRepo {
+  color: cadetblue;
+  font-size: 34px;
+  text-align: center;
+}
